@@ -54,7 +54,6 @@ Understand the role of VPNs in protecting privacy and enabling secure communicat
    - Slight increase in browsing speed after disconnecting.
 
 ## Screenshot of Connection Status  
-*(Insert image below)*  
 ![VPN Connected Screenshot](screenshot.jpg)
 
 ## VPN Benefits  

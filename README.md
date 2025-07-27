@@ -1,6 +1,4 @@
-# Elevate-Labs-task-8
-
-# Task 8: Working and Understanding VPN
+# Working and Understanding VPN
 
 ## Objective  
 Understand the role of VPNs in protecting privacy and enabling secure communication.
